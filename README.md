@@ -1,6 +1,6 @@
-# mockmod
+# mockmodbababbaaab
 
-mock
+REPLACE_WITH_PROJECT_DESCRIPTION
 
 ## Collaborate with GPT Engineer
 
@@ -12,17 +12,15 @@ If you clone this repo and push changes, you will have them reflected in the GPT
 
 ## Tech stack
 
-This project is built with React and Chakra UI.
+This project is built with REPLACE_WITH_TECH_STACK_SUMMARY.
 
-- Vite
-- React
-- Chakra UI
+REPLACE_WITH_TECH_STACK_POINTS
 
 ## Setup
 
 ```sh
 git clone https://github.com/GPT-Engineer-App-Dev/mockmod.git
-cd mockmod
+cd mockmodbababbaaab
 npm i
 ```
 
